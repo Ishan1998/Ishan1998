@@ -1,10 +1,10 @@
 # Hi there, I'm Ishan <a href="http://ishanrathore.ga/" rel="nofollow"><img width="5%" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="5%" data-animated-image="" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;" />
-
-
 [![Website](https://img.shields.io/website?label=ishanrathore.com&style=for-the-badge&url=http://ishanrathore.ga/)](http://ishanrathore.ga/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/IshanRathore28?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/IshanRathore28)
 
+[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan1998&show_icons=true&theme=radical)](https://github.com/Ishan1998/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan1998&layout=compact)](https://github.com/Ishan1998/)
 
 ## I'm a Web Developer!
 
@@ -35,13 +35,6 @@
 3. ✔️ [Ishan1998/GuessingGame](https://github.com/Ishan1998/GuessingGame)
 4. ✔️ [Ishan1998/Nike_Shoe_Market](https://github.com/Ishan1998/Nike_Shoe_Market)
 5. ✔️ [Ishan1998/Snake-Game](https://github.com/Ishan1998/Snake-Game)
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan1998&show_icons=true&theme=radical)
-
 </details>
 
 [website]: http://ishanrathore.ga/
