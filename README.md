@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=ishanrathore.com&style=for-the-badge&url=http://ishanrathore.ga/)](http://ishanrathore.ga/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/IshanRathore28?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/IshanRathore28)
 
-[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishan1998&show_icons=true&theme=radical)](https://github.com/Ishan1998/)
+<a href="https://github.com/Ishan1998/Ishan1998/blob/main/README.md"><img align="center" src="https://camo.githubusercontent.com/c451cc24df2052ebda084d353d85dc7abd0a802a9b79c727dbb96e7cfa03106b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d497368616e313939382673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Ishan's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Ishan1998&show_icons=true&theme=radical" style="max-width: 100%;"></a></th>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan1998&layout=compact)](https://github.com/Ishan1998/)
 
