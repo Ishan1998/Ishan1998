@@ -35,6 +35,11 @@
 3. ✔️ [Ishan1998/GuessingGame](https://github.com/Ishan1998/GuessingGame)
 4. ✔️ [Ishan1998/Nike_Shoe_Market](https://github.com/Ishan1998/Nike_Shoe_Market)
 5. ✔️ [Ishan1998/Snake-Game](https://github.com/Ishan1998/Snake-Game)
+6. ✔️ [Ishan1998/Text-To-Handwriting](https://github.com/Ishan1998/Text-To-Handwriting)
+7. ✔️ [Ishan1998/Weather-App](https://github.com/Ishan1998/Weather-App)
+8. ✔️ [Ishan1998/Quiz_App](https://github.com/Ishan1998/Quiz_App)
+9. ✔️ [Ishan1998/Countdown-Timer-App](https://github.com/Ishan1998/Countdown-Timer-App)
+
 </details>
 
 [website]: http://ishanrathore.ga/
