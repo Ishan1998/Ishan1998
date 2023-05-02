@@ -1,5 +1,5 @@
 # Hi there, I'm Ishan <a href="http://ishanrathore.ga/" rel="nofollow"><img width="5%" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="5%" data-animated-image="" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;" />
-[![Website](https://img.shields.io/website?label=ishanrathore.com&style=for-the-badge&url=http://ishanrathore.ga/)](https://github.com/Ishan1998/MyPortfolio)
+[![Website](https://img.shields.io/website?label=ishanrathore.com&style=for-the-badge&url=http://ishanrathore.ga/)]([https://github.com/Ishan1998/MyPortfolio](https://ishan1998.github.io/MyPortfolio/))
 [![Twitter Follow](https://img.shields.io/twitter/follow/IshanRathore28?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/IshanRathore28)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ishan1998&show_icons=true&theme=radical)
